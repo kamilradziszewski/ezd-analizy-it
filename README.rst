@@ -20,5 +20,6 @@ Spis dokumentów
 * `Eksperymenty programistyczne na eDoku 4 <eksperymenty-programistyczne-na-edoku4.rst>`_
 * `Model migracji z systemów EZD PUW i eDok <migracja.rst>`_
 * `Analiza istniejących rozwiązań marketplace’ów <analiza-istniejacych-rozwiazan-marketplace.rst>`_
+* `Analiza rozwiązań w zakresie bibliotek komponentów GUI <analiza-rozwiazan-biblioteki-komponentow-GUI.rst>`_
 
 .. _OpenPGP: http://openpgp.org/
